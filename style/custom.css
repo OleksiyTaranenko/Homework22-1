@@ -1,0 +1,39 @@
+.wrapper {
+    border: 3px solid black;
+    width: 300px;
+}
+.wrapper p {
+    margin-top: 30px;
+    margin-left: 20px;
+    
+}
+div {
+    margin: 20px;
+    width: 220px;   
+    text-transform: uppercase;    
+}
+#generate {
+    margin-top: 20px;
+    text-transform: uppercase;
+    padding: 10px 15px;
+    cursor: pointer;
+    font-size: 12px;
+}
+#showArr {
+    border: 1px solid black;
+    width: fit-content;
+    height: 20px;
+    padding: 7px;
+}
+#showFilteredArr1 {
+    border: 1px solid black;
+    width: fit-content;
+    height: 20px;
+    padding: 7px;
+}
+#showFilteredArr2 {
+    border: 1px solid black;
+    width: fit-content;
+    height: 20px;
+    padding: 7px;
+}
